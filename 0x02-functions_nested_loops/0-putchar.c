@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main -print _putchar
+ * main - print _putchar
  * is written by GATHONI-FAITH
  * Return: 0
  */
@@ -18,4 +18,4 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 return (0);
-'}'
+}
