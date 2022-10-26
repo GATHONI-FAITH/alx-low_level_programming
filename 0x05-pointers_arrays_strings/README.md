@@ -1,0 +1,2 @@
+pointers arrays and strings
+# Please enter the commit message for your changes. Lines starting
