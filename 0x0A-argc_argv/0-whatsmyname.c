@@ -6,8 +6,8 @@
  * @argv: array of program listed
  * Return: 0 on success
  */
-int main(int argc __attribute__((unused)), char *argv)
+int main(int argc __attribute__((unused)), char *argv[])
 {
-	printf("%S\n", *argv);
+	printf("%s\n", *argv);
 	return (0);
 }
